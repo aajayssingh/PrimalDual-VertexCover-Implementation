@@ -1,0 +1,5 @@
+Compilation and execution
+1> run make file.
+2> run the executable named primaldualVC generated
+
+Note: inp-params.txt contains the graph as input for the primal dual algorithm for vertex cover.
